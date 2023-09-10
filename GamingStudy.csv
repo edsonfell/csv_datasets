@@ -1,4 +1,4 @@
-GADE (Affect of gaming in work),Game,Hours (per week),streams,Narcissism,Gender,Age,Work,Degree,Residence_ISO3,SWL_T (Satisfaction with Life total score),SPIN_T (Social Phobia Inventory total score),GAD_T (General Anxiety Disorder total score) (to predict)
+GADE,Game,Hours,Streams,Narcissism,Gender,Age,Work,Degree,Residence_ISO3,SWL_T,SPIN_T,GAD_T
 NA,League of Legends,25,1,1,Male,25,Employed,Bachelor (or equivalent),USA,33,3,0
 Somewhat difficult,League of Legends,5,1,3,Male,36,Employed,Bachelor (or equivalent),ROU,26,31,5
 NA,League of Legends,9,1,4,Female,23,Employed,High school diploma (or equivalent),GBR,26,39,0
@@ -33,7 +33,7 @@ Somewhat difficult,League of Legends,30,1,2,Male,21,Student at college / univers
 Somewhat difficult,League of Legends,25,1,1,Male,20,Unemployed / between jobs,Bachelor (or equivalent),NLD,12,NA,3
 Not difficult at all,League of Legends,10,1,1,Female,20,Student at college / university,High school diploma (or equivalent),LTU,31,27,5
 Somewhat difficult,League of Legends,40,1,2,Female,18,Student at school,High school diploma (or equivalent),NOR,27,7,11
-Not difficult at all,League of Legends,12,1,4,Male,25,Employed,"Ph.D., Psy. D., MD (or equivalent)",DEU,31,5,1
+"Not difficult at all,League of Legends,12,1,4,Male,25,Employed,""Ph.D., Psy. D., MD (or equivalent)"",DEU,31,5,1"
 Somewhat difficult,League of Legends,16,1,1,Male,19,Student at college / university,High school diploma (or equivalent),JPN,21,14,7
 Not difficult at all,League of Legends,16,1,1,Male,18,Student at school,High school diploma (or equivalent),GBR,27,2,1
 Not difficult at all,League of Legends,12,1,3,Male,18,Employed,High school diploma (or equivalent),GBR,22,16,2
@@ -94,7 +94,7 @@ Somewhat difficult,League of Legends,30,1,1,Male,20,Student at school,High schoo
 Somewhat difficult,League of Legends,20,1,1,Male,18,Student at school,Bachelor (or equivalent),BGR,24,30,1
 Not difficult at all,League of Legends,20,1,3,Male,29,Employed,Bachelor (or equivalent),USA,20,18,4
 Somewhat difficult,League of Legends,30,1,1,Male,20,Unemployed / between jobs,High school diploma (or equivalent),AUT,14,35,4
-Not difficult at all,League of Legends,20,1,1,Male,23,Student at school,"Ph.D., Psy. D., MD (or equivalent)",USA,34,0,1
+"Not difficult at all,League of Legends,20,1,1,Male,23,Student at school,""Ph.D., Psy. D., MD (or equivalent)"",USA,34,0,1"
 Not difficult at all,League of Legends,25,1,1,Male,20,Student at college / university,High school diploma (or equivalent),DEU,17,3,1
 Somewhat difficult,League of Legends,14,1,2,Male,18,Student at school,None,DNK,15,22,1
 Somewhat difficult,League of Legends,20,1,2,Female,29,Employed,Bachelor (or equivalent),CAN,23,37,9
@@ -342,7 +342,7 @@ Somewhat difficult,League of Legends,50,1,3,Male,22,Unemployed / between jobs,Hi
 Somewhat difficult,League of Legends,10,1,1,Male,22,Student at school,High school diploma (or equivalent),DEU,29,8,4
 Somewhat difficult,League of Legends,20,1,3,Male,21,Student at college / university,High school diploma (or equivalent),DEU,7,45,6
 Somewhat difficult,League of Legends,20,1,2,Male,20,Student at college / university,High school diploma (or equivalent),USA,13,39,6
-Somewhat difficult,League of Legends,30,1,1,Male,25,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",GBR,27,14,8
+"Somewhat difficult,League of Legends,30,1,1,Male,25,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",GBR,27,14,8"
 Not difficult at all,League of Legends,20,1,2,Male,19,Student at college / university,High school diploma (or equivalent),NLD,18,8,2
 Somewhat difficult,League of Legends,40,1,1,Male,23,Unemployed / between jobs,Bachelor (or equivalent),GBR,15,39,7
 Somewhat difficult,League of Legends,20,1,1,Female,22,Student at college / university,Bachelor (or equivalent),DEU,24,16,7
@@ -408,7 +408,7 @@ Very difficult,League of Legends,20,1,1,Male,20,Student at college / university,
 Somewhat difficult,League of Legends,4,1,2,Male,23,Employed,Bachelor (or equivalent),USA,24,22,3
 Somewhat difficult,League of Legends,20,1,1,Male,22,Unemployed / between jobs,Bachelor (or equivalent),AUS,12,17,3
 Somewhat difficult,League of Legends,4,1,4,Female,19,Student at college / university,High school diploma (or equivalent),MYS,16,19,7
-Not difficult at all,League of Legends,35,1,2,Male,18,Employed,"Ph.D., Psy. D., MD (or equivalent)",NOR,29,42,7
+"Not difficult at all,League of Legends,35,1,2,Male,18,Employed,""Ph.D., Psy. D., MD (or equivalent)"",NOR,29,42,7"
 Not difficult at all,League of Legends,14,1,3,Male,19,Student at college / university,High school diploma (or equivalent),AUS,14,34,5
 Somewhat difficult,League of Legends,20,1,5,Male,25,Employed,High school diploma (or equivalent),USA,11,10,7
 Very difficult,League of Legends,120,1,2,Male,23,Employed,High school diploma (or equivalent),FRA,16,52,17
@@ -687,7 +687,7 @@ Not difficult at all,League of Legends,13,1,3,Male,19,Student at college / unive
 Somewhat difficult,League of Legends,16,1,1,Male,18,Student at school,High school diploma (or equivalent),USA,29,35,7
 Not difficult at all,League of Legends,10,1,2,Male,23,Employed,High school diploma (or equivalent),GRC,25,3,1
 Somewhat difficult,League of Legends,25,1,3,Male,20,Employed,High school diploma (or equivalent),HRV,15,15,1
-NA,League of Legends,10,1,1,Male,36,Employed,"Ph.D., Psy. D., MD (or equivalent)",IRL,31,41,0
+"NA,League of Legends,10,1,1,Male,36,Employed,""Ph.D., Psy. D., MD (or equivalent)"",IRL,31,41,0"
 Not difficult at all,League of Legends,50,1,2,Male,18,Student at college / university,None,DEU,21,28,5
 Somewhat difficult,League of Legends,20,1,3,Male,19,Student at school,None,NA,20,6,1
 Somewhat difficult,League of Legends,35,1,2,Male,18,Student at school,None,POL,17,22,5
@@ -768,7 +768,7 @@ Not difficult at all,League of Legends,10,1,2,Male,22,Student at college / unive
 Not difficult at all,League of Legends,21,0,2,Male,19,Student at college / university,High school diploma (or equivalent),USA,23,10,1
 Not difficult at all,League of Legends,28,1,3,Male,22,Student at college / university,High school diploma (or equivalent),DEU,16,18,3
 Not difficult at all,League of Legends,20,1,3,Male,21,Student at college / university,High school diploma (or equivalent),USA,19,23,3
-Somewhat difficult,League of Legends,7,1,1,Male,26,Employed,"Ph.D., Psy. D., MD (or equivalent)",DEU,30,29,7
+"Somewhat difficult,League of Legends,7,1,1,Male,26,Employed,""Ph.D., Psy. D., MD (or equivalent)"",DEU,30,29,7"
 Very difficult,League of Legends,15,1,4,Male,18,Student at college / university,High school diploma (or equivalent),HUN,7,39,14
 Somewhat difficult,League of Legends,14,1,1,Male,23,Student at college / university,High school diploma (or equivalent),USA,14,10,5
 Very difficult,League of Legends,20,1,3,Male,22,Student at college / university,High school diploma (or equivalent),DEU,10,32,13
@@ -780,7 +780,7 @@ Very difficult,League of Legends,36,1,1,Male,19,Unemployed / between jobs,High s
 Not difficult at all,League of Legends,21,1,2,Male,19,Employed,High school diploma (or equivalent),DEU,20,16,1
 Somewhat difficult,League of Legends,15,1,3,Male,18,Student at school,None,DEU,21,24,3
 Very difficult,League of Legends,14,1,4,Male,19,Unemployed / between jobs,High school diploma (or equivalent),GBR,20,19,9
-Not difficult at all,League of Legends,15,1,2,Male,23,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",USA,31,8,2
+"Not difficult at all,League of Legends,15,1,2,Male,23,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",USA,31,8,2"
 Very difficult,League of Legends,10,0,1,Male,20,Employed,Bachelor (or equivalent),GBR,15,14,15
 Extremely difficult,League of Legends,50,1,2,Male,21,Unemployed / between jobs,High school diploma (or equivalent),FIN,7,45,13
 Somewhat difficult,League of Legends,5,1,1,Male,26,Unemployed / between jobs,Bachelor (or equivalent),ITA,14,7,3
@@ -946,7 +946,7 @@ Not difficult at all,League of Legends,10,1,3,Male,21,Employed,High school diplo
 Not difficult at all,League of Legends,8,1,2,Male,18,Student at school,High school diploma (or equivalent),NLD,24,5,0
 NA,League of Legends,12,1,3,Male,20,Student at college / university,High school diploma (or equivalent),BRA,26,14,0
 Not difficult at all,League of Legends,20,1,1,Male,23,Student at college / university,High school diploma (or equivalent),NLD,24,13,0
-Very difficult,League of Legends,10,1,2,Male,28,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,20,28,7
+"Very difficult,League of Legends,10,1,2,Male,28,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,20,28,7"
 NA,League of Legends,50,1,2,Male,18,Student at school,None,USA,26,21,0
 Not difficult at all,League of Legends,35,0,2,Male,20,Student at college / university,High school diploma (or equivalent),AUS,22,10,6
 Not difficult at all,League of Legends,42,1,4,Male,18,Student at college / university,High school diploma (or equivalent),AUS,25,32,14
@@ -1533,7 +1533,7 @@ Not difficult at all,League of Legends,8,1,2,Male,21,Student at college / univer
 Somewhat difficult,League of Legends,8,1,2,Male,24,Unemployed / between jobs,High school diploma (or equivalent),USA,15,16,3
 Somewhat difficult,League of Legends,25,1,1,Male,19,Student at school,High school diploma (or equivalent),NLD,24,NA,15
 Somewhat difficult,League of Legends,14,1,2,Female,19,Student at college / university,High school diploma (or equivalent),NOR,16,28,4
-Somewhat difficult,League of Legends,20,1,1,Male,25,Employed,"Ph.D., Psy. D., MD (or equivalent)",AUS,19,12,3
+"Somewhat difficult,League of Legends,20,1,1,Male,25,Employed,""Ph.D., Psy. D., MD (or equivalent)"",AUS,19,12,3"
 Somewhat difficult,League of Legends,15,1,2,Male,18,Student at college / university,High school diploma (or equivalent),DEU,20,27,3
 Not difficult at all,League of Legends,25,1,1,Male,19,Employed,High school diploma (or equivalent),BRA,11,17,7
 Somewhat difficult,League of Legends,30,1,1,Female,20,Student at college / university,High school diploma (or equivalent),USA,29,18,6
@@ -1821,7 +1821,7 @@ Somewhat difficult,League of Legends,30,1,1,Male,18,Student at college / univers
 Not difficult at all,League of Legends,12,1,3,Male,23,Employed,High school diploma (or equivalent),DEU,21,38,7
 Somewhat difficult,League of Legends,25,1,2,Male,19,Student at college / university,Bachelor (or equivalent),FRA,24,35,1
 Not difficult at all,League of Legends,10,1,2,Male,18,Student at school,High school diploma (or equivalent),DEU,31,NA,0
-Somewhat difficult,League of Legends,25,1,5,Male,24,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",GBR,17,9,11
+"Somewhat difficult,League of Legends,25,1,5,Male,24,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",GBR,17,9,11"
 Extremely difficult,League of Legends,60,1,3,Male,20,Student at college / university,None,GBR,5,57,12
 Somewhat difficult,League of Legends,20,1,1,Male,20,Unemployed / between jobs,High school diploma (or equivalent),BEL,11,35,11
 Somewhat difficult,League of Legends,30,1,2,Male,24,Student at college / university,Bachelor (or equivalent),GRC,22,3,2
@@ -1896,7 +1896,7 @@ Not difficult at all,League of Legends,23,1,1,Male,18,Student at school,None,FIN
 Somewhat difficult,League of Legends,17,1,3,Male,18,Student at school,None,USA,16,27,6
 Not difficult at all,League of Legends,40,1,2,Male,24,Employed,Bachelor (or equivalent),USA,31,36,0
 Somewhat difficult,League of Legends,1,1,1,Female,19,Student at college / university,High school diploma (or equivalent),USA,15,46,11
-Not difficult at all,League of Legends,10,1,2,Male,28,Employed,"Ph.D., Psy. D., MD (or equivalent)",CHN,26,12,1
+"Not difficult at all,League of Legends,10,1,2,Male,28,Employed,""Ph.D., Psy. D., MD (or equivalent)"",CHN,26,12,1"
 NA,League of Legends,12,1,1,Male,19,Student at college / university,High school diploma (or equivalent),USA,17,27,0
 Not difficult at all,League of Legends,14,1,2,Male,18,Student at college / university,High school diploma (or equivalent),GBR,15,23,7
 Somewhat difficult,League of Legends,35,1,1,Male,20,Student at college / university,High school diploma (or equivalent),ITA,20,22,3
@@ -1959,11 +1959,11 @@ Somewhat difficult,League of Legends,20,1,2,Male,18,Student at school,None,BEL,1
 Somewhat difficult,League of Legends,NA,1,2,Male,22,Employed,Bachelor (or equivalent),USA,15,15,8
 Somewhat difficult,League of Legends,30,1,5,Male,18,Employed,High school diploma (or equivalent),DEU,8,27,4
 Not difficult at all,League of Legends,21,1,2,Male,20,Student at college / university,Master (or equivalent),FRA,19,9,0
-Not difficult at all,League of Legends,40,1,2,Male,26,Unemployed / between jobs,"Ph.D., Psy. D., MD (or equivalent)",FRA,32,9,5
+"Not difficult at all,League of Legends,40,1,2,Male,26,Unemployed / between jobs,""Ph.D., Psy. D., MD (or equivalent)"",FRA,32,9,5"
 Not difficult at all,League of Legends,80,1,1,Male,20,Employed,High school diploma (or equivalent),DNK,16,8,4
 Not difficult at all,League of Legends,4,1,1,Male,56,Unemployed / between jobs,Bachelor (or equivalent),NLD,35,2,0
 Not difficult at all,League of Legends,20,1,3,Male,19,Student at college / university,High school diploma (or equivalent),USA,19,22,0
-Not difficult at all,League of Legends,20,1,1,Male,31,Employed,"Ph.D., Psy. D., MD (or equivalent)",CZE,28,4,3
+"Not difficult at all,League of Legends,20,1,1,Male,31,Employed,""Ph.D., Psy. D., MD (or equivalent)"",CZE,28,4,3"
 Not difficult at all,League of Legends,16,1,1,Male,19,Student at college / university,High school diploma (or equivalent),PRT,26,31,2
 Somewhat difficult,League of Legends,50,1,2,Male,21,Student at college / university,High school diploma (or equivalent),USA,28,19,2
 Not difficult at all,League of Legends,7,1,1,Male,25,Employed,Bachelor (or equivalent),USA,22,16,4
@@ -2405,7 +2405,7 @@ Not difficult at all,League of Legends,20,1,1,Male,19,Student at college / unive
 Somewhat difficult,League of Legends,8,1,1,Male,22,Student at college / university,Bachelor (or equivalent),BEL,21,19,4
 Not difficult at all,League of Legends,25,1,1,Male,19,Student at college / university,High school diploma (or equivalent),DEU,19,12,2
 Not difficult at all,League of Legends,35,1,1,Male,18,Student at school,High school diploma (or equivalent),CAN,24,24,3
-Not difficult at all,League of Legends,15,0,3,Male,25,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",USA,31,32,6
+"Not difficult at all,League of Legends,15,0,3,Male,25,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",USA,31,32,6"
 Not difficult at all,League of Legends,20,1,2,Male,21,Employed,High school diploma (or equivalent),SWE,21,13,2
 Somewhat difficult,League of Legends,20,1,3,Male,19,Student at college / university,High school diploma (or equivalent),USA,7,24,10
 Extremely difficult,League of Legends,10,1,1,Male,21,Student at college / university,High school diploma (or equivalent),DEU,7,35,21
@@ -2605,7 +2605,7 @@ Not difficult at all,League of Legends,12,1,1,Male,23,Employed,Master (or equiv
 Not difficult at all,League of Legends,25,1,1,Male,20,Student at college / university,High school diploma (or equivalent),ITA,25,NA,1
 Somewhat difficult,League of Legends,7,1,4,Male,19,Student at college / university,None,PRT,25,8,1
 Not difficult at all,League of Legends,30,1,1,Male,23,Student at college / university,High school diploma (or equivalent),CAN,10,44,3
-Not difficult at all,League of Legends,15,1,4,Male,23,Employed,"Ph.D., Psy. D., MD (or equivalent)",FRA,33,23,1
+"Not difficult at all,League of Legends,15,1,4,Male,23,Employed,""Ph.D., Psy. D., MD (or equivalent)"",FRA,33,23,1"
 Not difficult at all,League of Legends,35,1,2,Male,23,Unemployed / between jobs,High school diploma (or equivalent),HRV,13,21,8
 Somewhat difficult,League of Legends,16,1,3,Male,18,Student at school,High school diploma (or equivalent),EST,9,45,12
 Not difficult at all,League of Legends,5,1,1,Male,28,Student at college / university,Master (or equivalent),DEU,31,2,1
@@ -2628,7 +2628,7 @@ Not difficult at all,League of Legends,7,1,1,Male,24,Student at college / univer
 Not difficult at all,League of Legends,20,1,1,Male,27,Employed,Master (or equivalent),MAR,24,8,0
 Not difficult at all,League of Legends,18,0,1,Male,25,Employed,Master (or equivalent),FRA,27,8,5
 Extremely difficult,League of Legends,20,1,1,Male,24,Student at college / university,High school diploma (or equivalent),DEU,13,27,3
-Not difficult at all,League of Legends,35,1,1,Male,25,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",SRB,25,3,1
+"Not difficult at all,League of Legends,35,1,1,Male,25,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",SRB,25,3,1"
 Somewhat difficult,League of Legends,18,1,2,Male,19,Student at school,High school diploma (or equivalent),DEU,18,NA,12
 Somewhat difficult,League of Legends,20,1,1,Male,23,Student at college / university,High school diploma (or equivalent),DEU,11,42,11
 Somewhat difficult,League of Legends,20,1,1,Male,18,Unemployed / between jobs,High school diploma (or equivalent),NLD,16,18,11
@@ -2879,7 +2879,7 @@ Somewhat difficult,League of Legends,3,1,2,Male,18,Student at school,None,CHE,23
 Not difficult at all,League of Legends,30,1,2,Male,30,Employed,Bachelor (or equivalent),USA,34,1,0
 Not difficult at all,League of Legends,40,1,1,Male,18,Student at college / university,High school diploma (or equivalent),NLD,27,NA,2
 Not difficult at all,League of Legends,3,1,4,Male,24,Employed,High school diploma (or equivalent),USA,18,11,11
-Somewhat difficult,League of Legends,6,1,2,Male,32,Employed,"Ph.D., Psy. D., MD (or equivalent)",DNK,30,14,3
+"Somewhat difficult,League of Legends,6,1,2,Male,32,Employed,""Ph.D., Psy. D., MD (or equivalent)"",DNK,30,14,3"
 Not difficult at all,League of Legends,12,1,1,Male,23,Student at college / university,Bachelor (or equivalent),FIN,30,10,2
 Not difficult at all,League of Legends,30,1,2,Male,18,Student at college / university,High school diploma (or equivalent),USA,30,28,4
 Somewhat difficult,League of Legends,20,1,1,Male,21,Student at college / university,High school diploma (or equivalent),USA,19,20,5
@@ -3004,7 +3004,7 @@ Not difficult at all,League of Legends,4,1,3,Male,20,Student at college / univer
 Somewhat difficult,League of Legends,14,1,3,Male,21,Student at college / university,High school diploma (or equivalent),POL,27,14,3
 Somewhat difficult,League of Legends,15,1,2,Male,19,Student at college / university,High school diploma (or equivalent),HUN,17,45,8
 Not difficult at all,League of Legends,25,1,2,Male,19,Student at college / university,High school diploma (or equivalent),CAN,16,35,2
-Somewhat difficult,League of Legends,22,1,2,Male,26,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,8,53,10
+"Somewhat difficult,League of Legends,22,1,2,Male,26,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,8,53,10"
 Somewhat difficult,League of Legends,30,1,1,Male,20,Student at college / university,High school diploma (or equivalent),USA,19,19,8
 Not difficult at all,League of Legends,20,1,1,Male,20,Student at college / university,Bachelor (or equivalent),USA,30,3,1
 Somewhat difficult,League of Legends,20,1,1,Male,20,Student at college / university,High school diploma (or equivalent),DEU,16,23,2
@@ -3100,7 +3100,7 @@ Not difficult at all,League of Legends,12,1,1,Male,20,Student at college / unive
 Not difficult at all,League of Legends,30,1,1,Male,21,Student at college / university,High school diploma (or equivalent),POL,31,11,4
 Not difficult at all,League of Legends,25,1,5,Male,21,Student at college / university,High school diploma (or equivalent),CAN,12,28,6
 Not difficult at all,League of Legends,20,1,1,Male,18,Student at school,High school diploma (or equivalent),DEU,23,8,2
-Not difficult at all,League of Legends,35,1,3,Male,20,Employed,"Ph.D., Psy. D., MD (or equivalent)",DEU,13,3,7
+"Not difficult at all,League of Legends,35,1,3,Male,20,Employed,""Ph.D., Psy. D., MD (or equivalent)"",DEU,13,3,7"
 Somewhat difficult,League of Legends,18,0,1,Male,21,Employed,High school diploma (or equivalent),USA,11,NA,9
 Not difficult at all,League of Legends,10,1,2,Male,32,Employed,Bachelor (or equivalent),CAN,10,33,13
 Somewhat difficult,League of Legends,20,1,4,Male,23,Employed,High school diploma (or equivalent),USA,18,NA,6
@@ -3243,7 +3243,7 @@ Somewhat difficult,League of Legends,6,1,3,Male,20,Student at college / universi
 Somewhat difficult,League of Legends,15,1,2,Male,24,Employed,Bachelor (or equivalent),USA,29,50,6
 Not difficult at all,League of Legends,70,0,3,Male,18,Student at school,None,DEU,25,8,1
 Not difficult at all,League of Legends,42,1,1,Male,20,Student at college / university,High school diploma (or equivalent),GBR,16,NA,2
-Somewhat difficult,League of Legends,20,1,1,Male,26,Unemployed / between jobs,"Ph.D., Psy. D., MD (or equivalent)",FRA,15,14,3
+"Somewhat difficult,League of Legends,20,1,1,Male,26,Unemployed / between jobs,""Ph.D., Psy. D., MD (or equivalent)"",FRA,15,14,3"
 Very difficult,League of Legends,18,1,1,Male,18,Student at college / university,High school diploma (or equivalent),BLZ,14,43,14
 Somewhat difficult,League of Legends,21,1,1,Male,18,Student at college / university,None,PER,26,8,1
 Not difficult at all,League of Legends,15,1,3,Male,20,Employed,High school diploma (or equivalent),SWE,21,17,4
@@ -3396,7 +3396,7 @@ Somewhat difficult,League of Legends,5,1,2,Male,20,Student at college / universi
 Somewhat difficult,League of Legends,20,1,4,Male,20,Employed,High school diploma (or equivalent),GBR,33,52,11
 Extremely difficult,League of Legends,16,1,1,Male,18,Student at school,None,NLD,6,37,7
 Not difficult at all,League of Legends,12,1,4,Male,20,Student at college / university,Bachelor (or equivalent),USA,30,9,5
-Not difficult at all,League of Legends,14,1,2,Male,22,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",ESP,19,10,4
+"Not difficult at all,League of Legends,14,1,2,Male,22,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",ESP,19,10,4"
 Somewhat difficult,League of Legends,5,1,2,Male,31,Employed,Bachelor (or equivalent),USA,20,3,5
 Somewhat difficult,League of Legends,50,1,2,Male,21,Student at school,High school diploma (or equivalent),FIN,6,53,13
 Somewhat difficult,League of Legends,21,1,2,Male,20,Student at college / university,High school diploma (or equivalent),DEU,27,19,3
@@ -3535,7 +3535,7 @@ Extremely difficult,League of Legends,4,1,1,Male,18,Unemployed / between jobs,Hi
 Not difficult at all,League of Legends,40,1,2,Male,20,Student at school,High school diploma (or equivalent),NA,17,11,1
 Extremely difficult,League of Legends,3,1,2,Male,23,Student at college / university,High school diploma (or equivalent),MEX,9,21,20
 Somewhat difficult,League of Legends,10,1,2,Male,19,Student at college / university,High school diploma (or equivalent),USA,14,56,12
-Very difficult,League of Legends,35,1,4,Male,31,Employed,"Ph.D., Psy. D., MD (or equivalent)",POL,32,15,9
+"Very difficult,League of Legends,35,1,4,Male,31,Employed,""Ph.D., Psy. D., MD (or equivalent)"",POL,32,15,9"
 Not difficult at all,League of Legends,10,1,3,Male,18,Student at college / university,High school diploma (or equivalent),NLD,25,22,1
 Not difficult at all,League of Legends,25,1,1,Male,26,Employed,Bachelor (or equivalent),USA,28,7,2
 Somewhat difficult,League of Legends,7,1,1,Male,19,Student at college / university,High school diploma (or equivalent),ESP,24,14,8
@@ -3578,7 +3578,7 @@ Not difficult at all,League of Legends,15,1,1,Male,24,Student at college / unive
 Somewhat difficult,League of Legends,30,1,1,Male,25,Employed,High school diploma (or equivalent),USA,8,49,7
 Somewhat difficult,League of Legends,6,1,1,Male,20,Student at college / university,High school diploma (or equivalent),USA,31,13,6
 Not difficult at all,League of Legends,30,1,3,Male,18,Student at school,High school diploma (or equivalent),CAN,15,21,3
-Somewhat difficult,League of Legends,12,1,1,Male,34,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,27,20,9
+"Somewhat difficult,League of Legends,12,1,1,Male,34,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,27,20,9"
 Somewhat difficult,League of Legends,35,1,3,Female,18,Student at college / university,High school diploma (or equivalent),USA,12,32,3
 Not difficult at all,League of Legends,56,1,5,Male,20,Student at school,High school diploma (or equivalent),HRV,23,36,2
 Not difficult at all,League of Legends,21,1,1,Male,20,Employed,High school diploma (or equivalent),MEX,27,9,16
@@ -3622,7 +3622,7 @@ Very difficult,League of Legends,20,1,2,Male,20,Student at college / university,
 Somewhat difficult,League of Legends,30,1,1,Male,22,Student at college / university,High school diploma (or equivalent),DEU,21,30,8
 Not difficult at all,League of Legends,21,1,2,Male,18,Student at school,None,SWE,18,16,4
 Not difficult at all,League of Legends,40,1,1,Male,21,Student at college / university,High school diploma (or equivalent),ITA,8,22,4
-Somewhat difficult,League of Legends,10,1,2,Male,27,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",MEX,32,1,3
+"Somewhat difficult,League of Legends,10,1,2,Male,27,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",MEX,32,1,3"
 Somewhat difficult,League of Legends,35,1,3,Male,19,Student at college / university,Bachelor (or equivalent),FRA,28,1,7
 Not difficult at all,League of Legends,60,1,1,Male,18,Student at college / university,High school diploma (or equivalent),USA,22,9,5
 Somewhat difficult,League of Legends,8,0,2,Female,19,Student at college / university,High school diploma (or equivalent),USA,22,4,10
@@ -3731,7 +3731,7 @@ Not difficult at all,League of Legends,20,1,3,Male,18,Student at school,High sch
 Somewhat difficult,League of Legends,30,1,1,Male,19,Unemployed / between jobs,High school diploma (or equivalent),DEU,13,18,8
 Somewhat difficult,League of Legends,24,1,1,Female,20,Student at college / university,High school diploma (or equivalent),USA,18,34,8
 NA,League of Legends,15,1,1,Male,23,Student at college / university,High school diploma (or equivalent),CHL,33,7,0
-Somewhat difficult,League of Legends,28,1,3,Male,20,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",DEU,28,NA,1
+"Somewhat difficult,League of Legends,28,1,3,Male,20,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",DEU,28,NA,1"
 Not difficult at all,League of Legends,34,1,2,Male,20,Student at college / university,High school diploma (or equivalent),DEU,20,29,8
 Not difficult at all,League of Legends,60,1,3,Male,20,Student at college / university,High school diploma (or equivalent),CHL,33,9,4
 Not difficult at all,League of Legends,8,1,1,Male,20,Student at college / university,High school diploma (or equivalent),USA,21,NA,2
@@ -3974,7 +3974,7 @@ Somewhat difficult,League of Legends,30,1,1,Male,21,Student at college / univers
 Somewhat difficult,League of Legends,20,1,3,Male,20,Student at college / university,High school diploma (or equivalent),USA,30,23,2
 Somewhat difficult,League of Legends,20,1,2,Male,18,Student at school,High school diploma (or equivalent),DEU,30,18,4
 Not difficult at all,League of Legends,8,1,2,Male,23,Student at college / university,Bachelor (or equivalent),USA,25,22,4
-NA,League of Legends,28,1,2,Male,26,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,33,9,0
+"NA,League of Legends,28,1,2,Male,26,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,33,9,0"
 Somewhat difficult,League of Legends,20,1,1,Male,25,Employed,Bachelor (or equivalent),USA,33,4,6
 Somewhat difficult,League of Legends,40,1,4,Male,19,Student at college / university,High school diploma (or equivalent),DEU,26,16,4
 Somewhat difficult,League of Legends,50,1,2,Male,19,Unemployed / between jobs,High school diploma (or equivalent),DEU,11,NA,9
@@ -5021,7 +5021,7 @@ NA,League of Legends,20,1,3,Male,18,Student at school,None,FIN,19,5,0
 Not difficult at all,League of Legends,12,1,1,Male,25,Employed,Bachelor (or equivalent),USA,30,15,0
 Somewhat difficult,League of Legends,10,1,2,Male,20,Student at college / university,High school diploma (or equivalent),DNK,30,1,1
 Not difficult at all,League of Legends,70,1,1,Male,18,Student at school,None,GBR,30,7,1
-Not difficult at all,League of Legends,16,1,3,Male,22,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",ESP,31,6,1
+"Not difficult at all,League of Legends,16,1,3,Male,22,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",ESP,31,6,1"
 Not difficult at all,League of Legends,6,1,1,Male,21,Student at college / university,High school diploma (or equivalent),DEU,12,41,1
 Not difficult at all,League of Legends,7,0,2,Female,25,Employed,Bachelor (or equivalent),USA,24,4,4
 Somewhat difficult,League of Legends,35,1,1,Male,18,Student at school,High school diploma (or equivalent),DEU,8,NA,18
@@ -5114,7 +5114,7 @@ Somewhat difficult,League of Legends,15,1,1,Male,19,Student at college / univers
 Somewhat difficult,League of Legends,4,1,3,Male,23,Employed,Bachelor (or equivalent),USA,35,12,4
 Somewhat difficult,League of Legends,16,1,3,Male,18,Student at school,None,USA,19,13,4
 Not difficult at all,League of Legends,18,1,1,Male,18,Student at school,None,SWE,21,NA,2
-NA,League of Legends,10,1,1,Male,31,Employed,"Ph.D., Psy. D., MD (or equivalent)",DNK,26,12,0
+"NA,League of Legends,10,1,1,Male,31,Employed,""Ph.D., Psy. D., MD (or equivalent)"",DNK,26,12,0"
 Not difficult at all,League of Legends,50,1,3,Male,20,Unemployed / between jobs,High school diploma (or equivalent),ITA,23,NA,4
 Somewhat difficult,League of Legends,30,1,2,Male,21,Unemployed / between jobs,High school diploma (or equivalent),SWE,17,38,4
 Not difficult at all,League of Legends,25,1,4,Male,20,Employed,High school diploma (or equivalent),DEU,15,17,6
@@ -5206,7 +5206,7 @@ Not difficult at all,League of Legends,7,1,1,Male,18,Student at school,None,PRT,
 Not difficult at all,League of Legends,20,1,2,Male,20,Student at college / university,High school diploma (or equivalent),NLD,21,14,2
 Not difficult at all,League of Legends,20,1,1,Male,22,Employed,Bachelor (or equivalent),FRA,26,10,0
 Not difficult at all,League of Legends,10,1,1,Male,20,Student at college / university,High school diploma (or equivalent),USA,28,6,0
-Somewhat difficult,League of Legends,12,1,1,Male,32,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,22,9,2
+"Somewhat difficult,League of Legends,12,1,1,Male,32,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,22,9,2"
 Somewhat difficult,League of Legends,12,1,3,Female,20,Student at college / university,High school diploma (or equivalent),PRT,13,16,8
 Not difficult at all,League of Legends,20,1,2,Male,25,Employed,Bachelor (or equivalent),USA,22,12,2
 Somewhat difficult,League of Legends,40,1,4,Male,19,Student at college / university,High school diploma (or equivalent),DEU,27,NA,0
@@ -5218,7 +5218,7 @@ Not difficult at all,League of Legends,25,1,1,Male,22,Student at college / unive
 Somewhat difficult,League of Legends,16,1,3,Male,21,Student at college / university,High school diploma (or equivalent),USA,9,8,1
 Very difficult,League of Legends,50,1,1,Male,19,Student at college / university,High school diploma (or equivalent),EST,5,41,4
 Not difficult at all,League of Legends,60,1,1,Male,20,Student at college / university,High school diploma (or equivalent),USA,25,10,1
-Not difficult at all,League of Legends,20,0,4,Male,20,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",FRA,26,10,10
+"Not difficult at all,League of Legends,20,0,4,Male,20,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",FRA,26,10,10"
 Not difficult at all,League of Legends,10,1,3,Male,19,Student at college / university,High school diploma (or equivalent),CAN,16,5,2
 Very difficult,League of Legends,30,1,3,Male,19,Employed,None,BEL,17,42,10
 Not difficult at all,League of Legends,30,1,1,Male,21,Unemployed / between jobs,Bachelor (or equivalent),BEL,22,12,2
@@ -5362,7 +5362,7 @@ Not difficult at all,League of Legends,20,1,3,Male,25,Employed,Bachelor (or equ
 Very difficult,League of Legends,42,1,1,Male,18,Student at college / university,High school diploma (or equivalent),CHL,12,11,8
 Very difficult,League of Legends,30,1,1,Male,22,Student at college / university,High school diploma (or equivalent),CAN,5,40,14
 Somewhat difficult,League of Legends,20,1,2,Male,33,Employed,Bachelor (or equivalent),GBR,26,40,4
-Somewhat difficult,League of Legends,10,1,2,Male,24,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",USA,31,18,3
+"Somewhat difficult,League of Legends,10,1,2,Male,24,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",USA,31,18,3"
 Not difficult at all,League of Legends,3,0,1,Male,18,Student at college / university,Bachelor (or equivalent),CAN,24,38,0
 Somewhat difficult,League of Legends,20,1,2,Female,19,Student at college / university,High school diploma (or equivalent),USA,25,32,5
 Not difficult at all,League of Legends,30,1,1,Male,18,Student at college / university,High school diploma (or equivalent),USA,26,1,0
@@ -5517,7 +5517,7 @@ Somewhat difficult,League of Legends,12,1,3,Male,23,Student at college / univers
 Somewhat difficult,League of Legends,10,1,1,Male,18,Student at school,None,USA,15,20,6
 Somewhat difficult,League of Legends,20,1,2,Male,20,Student at college / university,High school diploma (or equivalent),DNK,23,24,5
 Not difficult at all,League of Legends,50,1,3,Male,19,Student at college / university,High school diploma (or equivalent),FRA,16,13,2
-Not difficult at all,League of Legends,20,1,1,Male,28,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,32,3,1
+"Not difficult at all,League of Legends,20,1,1,Male,28,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,32,3,1"
 Somewhat difficult,League of Legends,28,1,3,Male,22,Student at college / university,High school diploma (or equivalent),DEU,22,36,14
 Somewhat difficult,League of Legends,4,1,2,Female,20,Student at college / university,High school diploma (or equivalent),USA,25,42,9
 Somewhat difficult,League of Legends,20,1,2,Male,22,Student at college / university,High school diploma (or equivalent),CAN,30,4,2
@@ -5530,7 +5530,7 @@ Not difficult at all,League of Legends,9,1,1,Male,18,Student at school,High scho
 Somewhat difficult,League of Legends,80,1,3,Male,19,Student at college / university,High school diploma (or equivalent),GBR,11,0,2
 Somewhat difficult,League of Legends,26,0,1,Male,18,Student at college / university,High school diploma (or equivalent),IRL,23,21,3
 Somewhat difficult,League of Legends,10,1,3,Male,20,Student at college / university,High school diploma (or equivalent),DEU,26,8,1
-Somewhat difficult,League of Legends,5,0,1,Male,27,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",USA,32,9,3
+"Somewhat difficult,League of Legends,5,0,1,Male,27,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",USA,32,9,3"
 Somewhat difficult,League of Legends,30,1,1,Male,19,Employed,High school diploma (or equivalent),GBR,9,41,7
 Somewhat difficult,League of Legends,21,1,1,Male,20,Student at college / university,High school diploma (or equivalent),FRA,13,21,4
 Not difficult at all,League of Legends,15,1,1,Male,19,Student at college / university,Bachelor (or equivalent),FRA,13,38,2
@@ -5790,7 +5790,7 @@ Not difficult at all,League of Legends,6,1,4,Male,18,Unemployed / between jobs,H
 Somewhat difficult,League of Legends,18,1,3,Male,18,Student at college / university,Bachelor (or equivalent),ESP,24,21,5
 Somewhat difficult,League of Legends,30,1,3,Male,18,Student at school,None,GBR,25,34,9
 Very difficult,League of Legends,12,1,1,Male,25,Employed,High school diploma (or equivalent),CAN,9,55,12
-Somewhat difficult,League of Legends,10,1,1,Female,29,Unemployed / between jobs,"Ph.D., Psy. D., MD (or equivalent)",USA,21,2,3
+"Somewhat difficult,League of Legends,10,1,1,Female,29,Unemployed / between jobs,""Ph.D., Psy. D., MD (or equivalent)"",USA,21,2,3"
 Not difficult at all,League of Legends,10,1,5,Male,21,Student at college / university,Bachelor (or equivalent),ESP,23,7,8
 Not difficult at all,League of Legends,42,0,3,Male,24,Unemployed / between jobs,Bachelor (or equivalent),USA,20,34,0
 NA,League of Legends,14,1,2,Male,18,Student at college / university,High school diploma (or equivalent),NLD,24,19,0
@@ -5809,7 +5809,7 @@ Not difficult at all,League of Legends,21,1,4,Male,23,Student at college / unive
 Very difficult,League of Legends,8,1,1,Female,20,Student at college / university,High school diploma (or equivalent),USA,7,63,21
 Somewhat difficult,League of Legends,20,1,3,Male,20,Student at college / university,High school diploma (or equivalent),CAN,19,7,5
 Somewhat difficult,League of Legends,4,1,2,Male,21,Unemployed / between jobs,Bachelor (or equivalent),USA,24,9,4
-Somewhat difficult,League of Legends,15,1,1,Male,30,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,11,30,15
+"Somewhat difficult,League of Legends,15,1,1,Male,30,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,11,30,15"
 Very difficult,League of Legends,25,1,3,Male,18,Student at school,High school diploma (or equivalent),CAN,21,18,9
 Somewhat difficult,League of Legends,50,1,2,Male,22,Employed,Bachelor (or equivalent),DEU,31,24,4
 Not difficult at all,League of Legends,15,1,2,Male,23,Student at college / university,Bachelor (or equivalent),BEL,23,21,9
@@ -5908,7 +5908,7 @@ Not difficult at all,League of Legends,7,1,2,Male,19,Student at college / univer
 Somewhat difficult,League of Legends,1,1,2,Male,23,Student at college / university,Bachelor (or equivalent),GBR,22,31,10
 Not difficult at all,League of Legends,20,1,3,Male,18,Employed,High school diploma (or equivalent),USA,29,3,0
 Not difficult at all,League of Legends,5,1,3,Male,24,Student at college / university,Bachelor (or equivalent),BEL,26,4,1
-Somewhat difficult,League of Legends,12,1,4,Male,18,Student at school,"Ph.D., Psy. D., MD (or equivalent)",ARG,22,39,5
+"Somewhat difficult,League of Legends,12,1,4,Male,18,Student at school,""Ph.D., Psy. D., MD (or equivalent)"",ARG,22,39,5"
 Not difficult at all,League of Legends,20,0,2,Female,20,Student at college / university,High school diploma (or equivalent),FIN,11,13,1
 Not difficult at all,League of Legends,5,1,4,Male,20,Student at college / university,High school diploma (or equivalent),ROU,15,11,3
 Somewhat difficult,League of Legends,12,1,2,Male,30,Student at college / university,High school diploma (or equivalent),AUT,5,NA,13
@@ -6094,10 +6094,10 @@ Somewhat difficult,League of Legends,25,1,1,Male,20,Student at college / univers
 Somewhat difficult,League of Legends,17,1,1,Male,18,Student at school,None,CZE,15,23,10
 Somewhat difficult,League of Legends,18,1,3,Male,19,Student at college / university,High school diploma (or equivalent),USA,22,31,3
 Somewhat difficult,League of Legends,35,1,1,Male,22,Student at college / university,High school diploma (or equivalent),GRC,15,50,5
-Somewhat difficult,League of Legends,15,1,2,Male,30,Unemployed / between jobs,"Ph.D., Psy. D., MD (or equivalent)",GBR,26,7,4
+"Somewhat difficult,League of Legends,15,1,2,Male,30,Unemployed / between jobs,""Ph.D., Psy. D., MD (or equivalent)"",GBR,26,7,4"
 Not difficult at all,League of Legends,70,1,3,Male,25,Student at college / university,High school diploma (or equivalent),DEU,29,12,5
 Not difficult at all,League of Legends,30,1,1,Male,18,Student at school,High school diploma (or equivalent),ARG,17,17,3
-Not difficult at all,League of Legends,20,1,5,Male,23,Employed,"Ph.D., Psy. D., MD (or equivalent)",CAN,33,0,7
+"Not difficult at all,League of Legends,20,1,5,Male,23,Employed,""Ph.D., Psy. D., MD (or equivalent)"",CAN,33,0,7"
 Not difficult at all,League of Legends,8,1,2,Male,19,Student at college / university,High school diploma (or equivalent),CAN,20,14,6
 Somewhat difficult,League of Legends,30,1,2,Female,19,Student at school,None,POL,12,39,16
 Not difficult at all,League of Legends,9,1,1,Male,21,Student at college / university,High school diploma (or equivalent),CAN,20,19,5
@@ -6521,7 +6521,7 @@ Not difficult at all,League of Legends,25,1,2,Male,19,Student at college / unive
 Very difficult,League of Legends,15,1,3,Male,19,Student at college / university,High school diploma (or equivalent),FRA,31,5,1
 Not difficult at all,League of Legends,20,1,1,Male,18,Student at school,High school diploma (or equivalent),USA,21,31,4
 Not difficult at all,League of Legends,12,1,1,Male,22,Student at college / university,High school diploma (or equivalent),USA,20,6,2
-Somewhat difficult,League of Legends,30,1,2,Male,29,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,30,9,9
+"Somewhat difficult,League of Legends,30,1,2,Male,29,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,30,9,9"
 Not difficult at all,League of Legends,21,1,1,Male,19,Student at college / university,High school diploma (or equivalent),NA,14,20,3
 Somewhat difficult,League of Legends,4,1,2,Male,21,Student at college / university,High school diploma (or equivalent),PHL,18,3,4
 Very difficult,League of Legends,20,1,4,Male,18,Student at school,None,BGR,14,19,9
@@ -6690,7 +6690,7 @@ Somewhat difficult,League of Legends,35,1,1,Male,25,Student at college / univers
 NA,League of Legends,20,1,2,Male,18,Student at school,None,IRL,16,15,0
 Somewhat difficult,League of Legends,20,1,2,Male,19,Student at college / university,High school diploma (or equivalent),USA,13,17,9
 Not difficult at all,League of Legends,35,1,1,Male,25,Employed,High school diploma (or equivalent),USA,18,4,3
-Not difficult at all,League of Legends,15,1,3,Male,24,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",USA,11,16,4
+"Not difficult at all,League of Legends,15,1,3,Male,24,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",USA,11,16,4"
 Not difficult at all,League of Legends,35,1,5,Male,18,Student at school,None,USA,32,15,1
 Not difficult at all,League of Legends,40,1,1,Male,20,Student at college / university,High school diploma (or equivalent),BRA,20,13,1
 Very difficult,League of Legends,7,1,1,Male,20,Unemployed / between jobs,High school diploma (or equivalent),USA,11,41,21
@@ -7024,7 +7024,7 @@ Not difficult at all,League of Legends,20,1,1,Male,20,Student at college / unive
 Not difficult at all,League of Legends,10,1,2,Male,21,Student at college / university,High school diploma (or equivalent),USA,8,18,9
 Not difficult at all,League of Legends,70,1,1,Male,18,Student at school,None,PRT,23,21,2
 Very difficult,League of Legends,20,1,4,Male,19,Student at college / university,High school diploma (or equivalent),ESP,23,26,6
-Extremely difficult,League of Legends,15,1,2,Male,30,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",USA,28,23,10
+"Extremely difficult,League of Legends,15,1,2,Male,30,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",USA,28,23,10"
 Not difficult at all,League of Legends,5,1,2,Male,20,Student at college / university,High school diploma (or equivalent),USA,16,27,3
 Somewhat difficult,League of Legends,10,1,1,Male,18,Student at school,None,NLD,28,16,7
 Somewhat difficult,League of Legends,20,1,2,Male,19,Student at college / university,None,NZL,15,24,6
@@ -7090,7 +7090,7 @@ Somewhat difficult,League of Legends,20,1,2,Male,21,Student at college / univers
 Not difficult at all,League of Legends,20,1,1,Male,21,Employed,Bachelor (or equivalent),USA,12,0,3
 Somewhat difficult,League of Legends,12,1,3,Male,19,Student at college / university,Bachelor (or equivalent),ESP,13,34,10
 Not difficult at all,League of Legends,5,1,2,Male,20,Student at college / university,High school diploma (or equivalent),DNK,25,16,1
-Not difficult at all,League of Legends,10,1,1,Male,24,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,26,8,1
+"Not difficult at all,League of Legends,10,1,1,Male,24,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,26,8,1"
 NA,League of Legends,25,1,4,Male,18,Student at college / university,High school diploma (or equivalent),CHL,23,13,0
 Somewhat difficult,League of Legends,10,1,2,Male,21,Student at college / university,High school diploma (or equivalent),USA,24,26,3
 Somewhat difficult,League of Legends,21,1,1,Male,19,Student at college / university,High school diploma (or equivalent),USA,25,39,6
@@ -7187,7 +7187,7 @@ Not difficult at all,League of Legends,10,0,1,Male,27,Unemployed / between jobs,
 Somewhat difficult,League of Legends,30,1,1,Male,22,Student at college / university,High school diploma (or equivalent),ISR,14,44,4
 Not difficult at all,League of Legends,8,1,5,Male,26,Student at college / university,Master (or equivalent),USA,20,26,4
 Somewhat difficult,League of Legends,40,1,2,Male,21,Student at college / university,High school diploma (or equivalent),ITA,20,6,3
-Somewhat difficult,League of Legends,20,1,2,Male,27,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,17,7,4
+"Somewhat difficult,League of Legends,20,1,2,Male,27,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,17,7,4"
 Somewhat difficult,League of Legends,15,1,3,Male,18,Student at college / university,Bachelor (or equivalent),FRA,26,NA,5
 Extremely difficult,League of Legends,20,1,2,Male,21,Employed,Bachelor (or equivalent),USA,6,NA,17
 Very difficult,League of Legends,40,1,3,Male,22,Unemployed / between jobs,High school diploma (or equivalent),USA,10,14,17
@@ -7331,16 +7331,16 @@ Not difficult at all,League of Legends,8,1,2,Male,26,Employed,High school diplom
 Somewhat difficult,League of Legends,15,1,2,Male,19,Employed,High school diploma (or equivalent),POL,9,23,4
 Not difficult at all,League of Legends,15,1,2,Male,27,Employed,High school diploma (or equivalent),USA,26,10,1
 Somewhat difficult,League of Legends,16,0,2,Male,20,Employed,High school diploma (or equivalent),BEL,15,15,4
-Not difficult at all,League of Legends,6,1,2,Male,27,Unemployed / between jobs,"Ph.D., Psy. D., MD (or equivalent)",USA,9,12,0
+"Not difficult at all,League of Legends,6,1,2,Male,27,Unemployed / between jobs,""Ph.D., Psy. D., MD (or equivalent)"",USA,9,12,0"
 Not difficult at all,League of Legends,21,1,2,Male,19,Student at college / university,High school diploma (or equivalent),GRC,14,5,4
 Not difficult at all,League of Legends,92,1,4,Male,18,Student at college / university,High school diploma (or equivalent),USA,11,66,11
 Not difficult at all,League of Legends,25,1,2,Male,19,Student at college / university,High school diploma (or equivalent),NLD,20,4,2
 Not difficult at all,League of Legends,20,1,2,Male,19,Student at college / university,High school diploma (or equivalent),SRB,12,13,2
 Not difficult at all,League of Legends,25,1,3,Male,19,Student at school,High school diploma (or equivalent),DEU,10,12,4
 Not difficult at all,League of Legends,30,1,1,Male,20,Unemployed / between jobs,High school diploma (or equivalent),CAN,13,4,5
-Not difficult at all,League of Legends,14,1,3,Male,18,Student at school,"Ph.D., Psy. D., MD (or equivalent)",AUS,14,12,5
+"Not difficult at all,League of Legends,14,1,3,Male,18,Student at school,""Ph.D., Psy. D., MD (or equivalent)"",AUS,14,12,5"
 Not difficult at all,League of Legends,8,1,2,Male,27,Employed,Bachelor (or equivalent),USA,28,14,1
-Not difficult at all,League of Legends,16,1,1,Male,22,Employed,"Ph.D., Psy. D., MD (or equivalent)",GBR,29,1,2
+"Not difficult at all,League of Legends,16,1,1,Male,22,Employed,""Ph.D., Psy. D., MD (or equivalent)"",GBR,29,1,2"
 Not difficult at all,League of Legends,10,1,1,Male,23,Employed,High school diploma (or equivalent),USA,15,32,2
 Somewhat difficult,League of Legends,3,1,1,Male,20,Student at college / university,High school diploma (or equivalent),USA,10,41,10
 Not difficult at all,League of Legends,20,1,4,Male,23,Employed,High school diploma (or equivalent),USA,21,26,5
@@ -7583,7 +7583,7 @@ Not difficult at all,League of Legends,20,1,2,Male,21,Student at college / unive
 Extremely difficult,League of Legends,16,1,1,Male,20,Student at college / university,High school diploma (or equivalent),BIH,7,58,4
 Somewhat difficult,League of Legends,18,1,2,Male,23,Student at college / university,High school diploma (or equivalent),USA,12,31,11
 Not difficult at all,League of Legends,13,1,1,Male,23,Employed,High school diploma (or equivalent),AUS,26,5,0
-Somewhat difficult,League of Legends,60,1,1,Male,39,Employed,"Ph.D., Psy. D., MD (or equivalent)",BEL,10,46,13
+"Somewhat difficult,League of Legends,60,1,1,Male,39,Employed,""Ph.D., Psy. D., MD (or equivalent)"",BEL,10,46,13"
 Not difficult at all,League of Legends,15,1,2,Male,18,Student at college / university,High school diploma (or equivalent),USA,24,20,0
 Somewhat difficult,League of Legends,10,1,3,Male,24,Employed,High school diploma (or equivalent),USA,9,14,3
 Very difficult,League of Legends,25,1,2,Male,23,Employed,High school diploma (or equivalent),AUT,9,35,10
@@ -7641,7 +7641,7 @@ Somewhat difficult,League of Legends,3,1,3,Male,20,Employed,High school diploma 
 NA,League of Legends,15,1,2,Male,18,Student at college / university,High school diploma (or equivalent),USA,23,23,0
 Somewhat difficult,League of Legends,20,1,1,Female,18,Student at college / university,High school diploma (or equivalent),GBR,25,27,4
 Somewhat difficult,League of Legends,15,1,4,Male,20,Student at college / university,High school diploma (or equivalent),USA,19,16,5
-Somewhat difficult,League of Legends,8,1,2,Male,26,Employed,"Ph.D., Psy. D., MD (or equivalent)",CAN,12,30,15
+"Somewhat difficult,League of Legends,8,1,2,Male,26,Employed,""Ph.D., Psy. D., MD (or equivalent)"",CAN,12,30,15"
 Not difficult at all,League of Legends,18,1,3,Male,19,Student at college / university,High school diploma (or equivalent),USA,23,29,5
 Not difficult at all,League of Legends,14,1,3,Male,18,Student at college / university,Master (or equivalent),GRC,23,8,6
 Not difficult at all,League of Legends,21,1,3,Male,19,Student at college / university,High school diploma (or equivalent),SVK,11,47,14
@@ -7666,7 +7666,7 @@ Somewhat difficult,League of Legends,6,1,3,Female,22,Student at college / univer
 Not difficult at all,League of Legends,42,0,2,Male,19,Student at college / university,High school diploma (or equivalent),CAN,20,1,1
 Not difficult at all,League of Legends,5,1,1,Male,18,Student at college / university,High school diploma (or equivalent),USA,27,1,2
 Somewhat difficult,League of Legends,30,1,4,Male,18,Student at school,None,LBN,15,15,11
-Somewhat difficult,League of Legends,12,1,1,Male,22,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",PRT,21,14,4
+"Somewhat difficult,League of Legends,12,1,1,Male,22,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",PRT,21,14,4"
 Somewhat difficult,League of Legends,12,1,1,Male,21,Student at college / university,High school diploma (or equivalent),USA,26,23,11
 Not difficult at all,League of Legends,20,1,2,Male,19,Student at college / university,High school diploma (or equivalent),USA,32,11,3
 Not difficult at all,League of Legends,20,1,3,Male,19,Employed,High school diploma (or equivalent),USA,17,19,5
@@ -7680,7 +7680,7 @@ Somewhat difficult,League of Legends,21,1,1,Male,18,Student at college / univers
 NA,League of Legends,14,1,3,Male,19,Student at college / university,High school diploma (or equivalent),CAN,35,4,0
 Somewhat difficult,League of Legends,7,1,1,Male,18,Student at school,None,USA,27,15,3
 Not difficult at all,League of Legends,60,1,1,Male,19,Student at college / university,High school diploma (or equivalent),USA,23,12,1
-Somewhat difficult,League of Legends,16,1,1,Male,22,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",ESP,28,6,2
+"Somewhat difficult,League of Legends,16,1,1,Male,22,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",ESP,28,6,2"
 Somewhat difficult,League of Legends,20,1,1,Male,19,Student at college / university,High school diploma (or equivalent),USA,10,27,6
 Very difficult,League of Legends,20,1,1,Male,19,Student at college / university,High school diploma (or equivalent),USA,9,58,16
 Not difficult at all,League of Legends,15,1,4,Male,27,Employed,Bachelor (or equivalent),USA,27,5,2
@@ -7766,8 +7766,8 @@ Somewhat difficult,League of Legends,22,1,1,Male,23,Student at college / univers
 Not difficult at all,League of Legends,30,1,2,Male,25,Employed,Bachelor (or equivalent),CAN,27,21,4
 Not difficult at all,League of Legends,35,1,2,Male,18,Student at college / university,High school diploma (or equivalent),CAN,24,2,1
 Somewhat difficult,League of Legends,20,1,3,Male,18,Student at college / university,High school diploma (or equivalent),ROU,28,9,5
-Somewhat difficult,League of Legends,14,1,1,Male,26,Student at school,"Ph.D., Psy. D., MD (or equivalent)",USA,19,8,3
-Extremely difficult,League of Legends,30,1,3,Male,24,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,13,26,18
+"Somewhat difficult,League of Legends,14,1,1,Male,26,Student at school,""Ph.D., Psy. D., MD (or equivalent)"",USA,19,8,3"
+"Extremely difficult,League of Legends,30,1,3,Male,24,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,13,26,18"
 Somewhat difficult,League of Legends,10,0,1,Male,19,Student at college / university,High school diploma (or equivalent),NA,12,36,9
 Not difficult at all,League of Legends,35,1,1,Male,19,Unemployed / between jobs,High school diploma (or equivalent),ROU,6,21,11
 Somewhat difficult,League of Legends,18,1,1,Male,23,Employed,Bachelor (or equivalent),USA,15,23,5
@@ -8088,7 +8088,7 @@ Somewhat difficult,League of Legends,15,0,3,Male,18,Employed,High school diploma
 Not difficult at all,League of Legends,30,1,1,Male,18,Student at college / university,High school diploma (or equivalent),DEU,19,12,8
 Not difficult at all,League of Legends,12,1,2,Male,18,Student at school,High school diploma (or equivalent),GBR,27,24,4
 Somewhat difficult,League of Legends,10,1,2,Male,22,Student at college / university,Bachelor (or equivalent),USA,20,8,5
-Somewhat difficult,League of Legends,15,1,3,Female,24,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",GBR,26,NA,7
+"Somewhat difficult,League of Legends,15,1,3,Female,24,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",GBR,26,NA,7"
 Not difficult at all,League of Legends,16,1,4,Male,19,Student at school,High school diploma (or equivalent),NOR,17,12,0
 Not difficult at all,League of Legends,10,1,2,Male,18,Student at college / university,High school diploma (or equivalent),GBR,18,4,4
 Somewhat difficult,League of Legends,8,1,2,Male,18,Student at college / university,High school diploma (or equivalent),USA,26,28,6
@@ -8155,7 +8155,7 @@ Not difficult at all,League of Legends,24,1,5,Male,18,Student at college / unive
 Not difficult at all,League of Legends,20,0,2,Female,20,Student at college / university,High school diploma (or equivalent),SWE,25,25,4
 Somewhat difficult,League of Legends,23,1,2,Male,19,Student at college / university,High school diploma (or equivalent),USA,10,20,4
 Somewhat difficult,League of Legends,20,1,1,Male,19,Student at school,High school diploma (or equivalent),SVN,12,35,8
-Extremely difficult,League of Legends,68,1,5,Male,22,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,20,34,7
+"Extremely difficult,League of Legends,68,1,5,Male,22,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,20,34,7"
 Somewhat difficult,League of Legends,6,1,1,Male,18,Student at school,None,USA,17,47,10
 Very difficult,League of Legends,14,1,3,Male,21,Student at college / university,Bachelor (or equivalent),USA,14,45,8
 NA,League of Legends,20,1,1,Male,26,Student at college / university,Master (or equivalent),FRA,32,7,0
@@ -8382,7 +8382,7 @@ Not difficult at all,League of Legends,20,1,2,Male,21,Student at college / unive
 Somewhat difficult,League of Legends,3,1,3,Female,22,Student at college / university,High school diploma (or equivalent),MEX,21,26,2
 Somewhat difficult,League of Legends,13,0,3,Male,19,Student at college / university,None,GBR,18,16,5
 Somewhat difficult,League of Legends,5,1,1,Male,25,Student at college / university,Bachelor (or equivalent),NLD,18,15,7
-Somewhat difficult,League of Legends,14,1,2,Male,23,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",USA,31,6,4
+"Somewhat difficult,League of Legends,14,1,2,Male,23,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",USA,31,6,4"
 Very difficult,League of Legends,35,1,1,Male,19,Employed,High school diploma (or equivalent),GBR,17,11,16
 Very difficult,League of Legends,20,1,2,Male,27,Employed,Bachelor (or equivalent),NZL,21,NA,7
 Not difficult at all,League of Legends,30,1,1,Male,20,Unemployed / between jobs,High school diploma (or equivalent),USA,20,NA,0
@@ -8406,7 +8406,7 @@ Somewhat difficult,League of Legends,12,1,1,Male,23,Student at college / univers
 Somewhat difficult,League of Legends,40,1,2,Male,23,Employed,Bachelor (or equivalent),MEX,20,12,3
 Somewhat difficult,League of Legends,20,1,1,Male,22,Unemployed / between jobs,High school diploma (or equivalent),USA,13,16,3
 Not difficult at all,League of Legends,30,1,2,Male,19,Student at college / university,High school diploma (or equivalent),DEU,26,2,1
-Very difficult,League of Legends,20,1,1,Male,18,Student at school,"Ph.D., Psy. D., MD (or equivalent)",AUT,23,7,7
+"Very difficult,League of Legends,20,1,1,Male,18,Student at school,""Ph.D., Psy. D., MD (or equivalent)"",AUT,23,7,7"
 Not difficult at all,League of Legends,12,1,2,Male,22,Student at college / university,Bachelor (or equivalent),DEU,22,38,4
 Somewhat difficult,League of Legends,16,1,2,Male,20,Student at college / university,High school diploma (or equivalent),USA,26,34,5
 Somewhat difficult,League of Legends,12,1,3,Male,19,Student at college / university,High school diploma (or equivalent),DEU,24,24,3
@@ -8765,7 +8765,7 @@ Very difficult,League of Legends,60,1,1,Male,22,Unemployed / between jobs,High s
 Somewhat difficult,League of Legends,15,1,3,Male,20,Student at college / university,High school diploma (or equivalent),USA,20,8,7
 Somewhat difficult,League of Legends,20,1,2,Male,31,Employed,High school diploma (or equivalent),CAN,15,3,10
 Not difficult at all,League of Legends,15,1,1,Male,18,Student at college / university,High school diploma (or equivalent),CAN,22,19,8
-Not difficult at all,League of Legends,20,1,1,Male,23,Employed,"Ph.D., Psy. D., MD (or equivalent)",ISR,21,15,1
+"Not difficult at all,League of Legends,20,1,1,Male,23,Employed,""Ph.D., Psy. D., MD (or equivalent)"",ISR,21,15,1"
 Somewhat difficult,League of Legends,22,1,2,Male,19,Employed,High school diploma (or equivalent),CAN,26,10,2
 Somewhat difficult,League of Legends,20,1,3,Male,18,Student at school,High school diploma (or equivalent),USA,16,21,5
 Very difficult,League of Legends,10,1,1,Male,23,Student at college / university,High school diploma (or equivalent),USA,25,11,8
@@ -8961,7 +8961,7 @@ Not difficult at all,League of Legends,14,1,1,Male,23,Student at college / unive
 Somewhat difficult,League of Legends,15,1,2,Male,24,Student at college / university,Bachelor (or equivalent),CAN,17,24,2
 Not difficult at all,League of Legends,60,1,2,Male,18,Student at school,High school diploma (or equivalent),NLD,29,NA,2
 Somewhat difficult,League of Legends,7,0,3,Male,19,Student at college / university,High school diploma (or equivalent),CAN,25,5,1
-Not difficult at all,League of Legends,20,1,4,Male,29,Employed,"Ph.D., Psy. D., MD (or equivalent)",GBR,35,8,0
+"Not difficult at all,League of Legends,20,1,4,Male,29,Employed,""Ph.D., Psy. D., MD (or equivalent)"",GBR,35,8,0"
 NA,League of Legends,8,1,2,Male,18,Student at college / university,High school diploma (or equivalent),CAN,21,6,1
 Somewhat difficult,League of Legends,4,1,3,Male,22,Student at college / university,High school diploma (or equivalent),ITA,15,59,6
 Not difficult at all,League of Legends,35,1,1,Male,18,Student at college / university,Bachelor (or equivalent),FRA,25,2,1
@@ -9344,7 +9344,7 @@ Somewhat difficult,League of Legends,10,1,2,Male,31,Employed,Bachelor (or equiv
 Not difficult at all,League of Legends,15,1,2,Male,18,Student at school,High school diploma (or equivalent),USA,23,9,0
 Somewhat difficult,League of Legends,20,0,1,Female,22,Student at college / university,High school diploma (or equivalent),USA,14,32,8
 Not difficult at all,League of Legends,15,1,1,Male,18,Employed,High school diploma (or equivalent),NOR,24,12,0
-Not difficult at all,League of Legends,7,1,2,Male,25,Student at school,"Ph.D., Psy. D., MD (or equivalent)",CAN,28,17,2
+"Not difficult at all,League of Legends,7,1,2,Male,25,Student at school,""Ph.D., Psy. D., MD (or equivalent)"",CAN,28,17,2"
 Somewhat difficult,League of Legends,35,1,4,Male,22,Employed,High school diploma (or equivalent),USA,5,36,10
 Not difficult at all,League of Legends,10,1,2,Male,30,Employed,Bachelor (or equivalent),USA,28,16,1
 Not difficult at all,League of Legends,25,1,4,Male,21,Student at college / university,Bachelor (or equivalent),USA,20,8,2
@@ -9542,7 +9542,7 @@ Not difficult at all,League of Legends,10,1,1,Male,18,Student at school,High sch
 Not difficult at all,League of Legends,20,1,1,Male,24,Student at college / university,High school diploma (or equivalent),POL,13,26,2
 Somewhat difficult,League of Legends,15,1,2,Female,18,Student at college / university,High school diploma (or equivalent),AUS,19,26,8
 Somewhat difficult,League of Legends,25,1,1,Male,20,Student at college / university,High school diploma (or equivalent),DEU,9,20,2
-Somewhat difficult,League of Legends,15,1,3,Male,23,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",USA,20,10,7
+"Somewhat difficult,League of Legends,15,1,3,Male,23,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",USA,20,10,7"
 Somewhat difficult,League of Legends,21,1,1,Male,20,Employed,High school diploma (or equivalent),PRT,20,51,17
 Very difficult,League of Legends,30,1,3,Male,21,Student at college / university,High school diploma (or equivalent),USA,7,49,9
 Somewhat difficult,League of Legends,12,1,1,Male,20,Student at college / university,High school diploma (or equivalent),USA,25,22,4
@@ -9847,7 +9847,7 @@ Not difficult at all,League of Legends,25,1,2,Female,23,Student at college / uni
 Somewhat difficult,League of Legends,10,1,1,Male,19,Student at college / university,High school diploma (or equivalent),HRV,27,17,13
 Not difficult at all,League of Legends,10,1,3,Male,18,Student at college / university,High school diploma (or equivalent),NZL,17,32,2
 Extremely difficult,League of Legends,4,0,1,Female,19,Student at college / university,High school diploma (or equivalent),GEO,19,10,9
-Somewhat difficult,League of Legends,15,1,2,Male,24,Employed,"Ph.D., Psy. D., MD (or equivalent)",GRC,26,9,7
+"Somewhat difficult,League of Legends,15,1,2,Male,24,Employed,""Ph.D., Psy. D., MD (or equivalent)"",GRC,26,9,7"
 Not difficult at all,League of Legends,18,1,3,Male,20,Student at college / university,High school diploma (or equivalent),DEU,15,27,7
 Not difficult at all,League of Legends,20,1,1,Male,20,Student at college / university,High school diploma (or equivalent),FIN,26,11,2
 Somewhat difficult,League of Legends,12,1,3,Male,26,Student at college / university,High school diploma (or equivalent),USA,21,12,4
@@ -10015,7 +10015,7 @@ Not difficult at all,League of Legends,25,1,5,Male,19,Student at college / unive
 Not difficult at all,League of Legends,10,1,2,Male,20,Student at college / university,High school diploma (or equivalent),USA,26,5,1
 Not difficult at all,League of Legends,10,1,3,Male,18,Student at college / university,High school diploma (or equivalent),AUS,24,9,3
 Not difficult at all,League of Legends,12,1,1,Male,28,Employed,Bachelor (or equivalent),USA,12,5,4
-Not difficult at all,League of Legends,40,1,2,Other,19,Student at school,"Ph.D., Psy. D., MD (or equivalent)",NA,27,18,3
+"Not difficult at all,League of Legends,40,1,2,Other,19,Student at school,""Ph.D., Psy. D., MD (or equivalent)"",NA,27,18,3"
 Somewhat difficult,League of Legends,7,1,2,Male,18,Student at college / university,High school diploma (or equivalent),USA,12,16,6
 Somewhat difficult,League of Legends,20,1,3,Male,39,Employed,Master (or equivalent),NZL,17,9,2
 Somewhat difficult,League of Legends,20,1,3,Female,20,Student at college / university,High school diploma (or equivalent),BRA,18,44,5
@@ -10279,7 +10279,7 @@ Very difficult,League of Legends,4,1,1,Male,18,Student at college / university,H
 Extremely difficult,League of Legends,70,1,3,Male,19,Student at college / university,High school diploma (or equivalent),USA,8,29,13
 Somewhat difficult,League of Legends,12,1,1,Male,23,Employed,High school diploma (or equivalent),USA,19,19,3
 Not difficult at all,League of Legends,20,1,1,Male,23,Employed,High school diploma (or equivalent),USA,8,45,9
-Not difficult at all,League of Legends,30,1,1,Female,22,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,35,31,6
+"Not difficult at all,League of Legends,30,1,1,Female,22,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,35,31,6"
 Somewhat difficult,League of Legends,70,1,1,Male,18,Student at college / university,High school diploma (or equivalent),USA,35,11,4
 Not difficult at all,League of Legends,20,1,2,Male,18,Student at school,None,USA,33,7,2
 Somewhat difficult,League of Legends,20,1,1,Male,22,Student at college / university,High school diploma (or equivalent),USA,6,42,15
@@ -10306,8 +10306,8 @@ Not difficult at all,League of Legends,20,1,3,Male,21,Student at college / unive
 Not difficult at all,League of Legends,10,1,1,Male,18,Student at school,None,HUN,24,48,4
 Somewhat difficult,League of Legends,55,1,2,Male,20,Student at college / university,High school diploma (or equivalent),BRA,24,23,6
 Not difficult at all,League of Legends,7,1,2,Male,20,Student at college / university,High school diploma (or equivalent),USA,34,18,0
-Not difficult at all,League of Legends,10,1,2,Male,27,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",CAN,34,7,3
-Not difficult at all,League of Legends,10,1,2,Male,27,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",CAN,34,7,3
+"Not difficult at all,League of Legends,10,1,2,Male,27,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",CAN,34,7,3"
+"Not difficult at all,League of Legends,10,1,2,Male,27,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",CAN,34,7,3"
 Not difficult at all,League of Legends,40,1,2,Male,22,Employed,Bachelor (or equivalent),USA,29,12,1
 Extremely difficult,League of Legends,5,1,1,Male,19,Student at college / university,High school diploma (or equivalent),CAN,10,42,14
 Not difficult at all,League of Legends,40,1,3,Male,18,Employed,High school diploma (or equivalent),USA,22,8,3
@@ -10326,7 +10326,7 @@ Somewhat difficult,League of Legends,15,1,4,Male,21,Student at college / univers
 Not difficult at all,League of Legends,30,1,1,Male,18,Unemployed / between jobs,High school diploma (or equivalent),NLD,33,NA,3
 Very difficult,League of Legends,10,1,1,Male,19,Student at college / university,High school diploma (or equivalent),DEU,25,31,4
 Not difficult at all,League of Legends,7,1,1,Female,31,Employed,Bachelor (or equivalent),USA,23,8,4
-Somewhat difficult,League of Legends,5,1,1,Male,25,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",USA,26,28,4
+"Somewhat difficult,League of Legends,5,1,1,Male,25,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",USA,26,28,4"
 Not difficult at all,League of Legends,20,1,1,Male,20,Student at college / university,Bachelor (or equivalent),USA,23,12,1
 Somewhat difficult,League of Legends,20,0,2,Male,18,Student at school,High school diploma (or equivalent),AUS,15,23,5
 Not difficult at all,League of Legends,35,1,2,Male,19,Unemployed / between jobs,High school diploma (or equivalent),USA,10,25,8
@@ -10342,7 +10342,7 @@ Somewhat difficult,League of Legends,10,1,4,Male,18,Student at school,High schoo
 Somewhat difficult,League of Legends,30,1,1,Male,18,Student at school,High school diploma (or equivalent),DEU,15,25,3
 Somewhat difficult,League of Legends,6,1,2,Female,20,Student at college / university,Bachelor (or equivalent),NA,16,32,11
 Not difficult at all,League of Legends,6,1,3,Male,20,Employed,High school diploma (or equivalent),CAN,25,22,2
-Not difficult at all,League of Legends,4,1,3,Female,25,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",CAN,35,8,1
+"Not difficult at all,League of Legends,4,1,3,Female,25,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",CAN,35,8,1"
 NA,League of Legends,35,1,3,Male,18,Student at school,None,USA,28,14,0
 Somewhat difficult,League of Legends,30,1,1,Male,18,Unemployed / between jobs,High school diploma (or equivalent),USA,28,23,8
 Not difficult at all,League of Legends,2,1,1,Female,20,Student at college / university,High school diploma (or equivalent),ARG,20,29,3
@@ -10542,7 +10542,7 @@ Not difficult at all,League of Legends,10,1,3,Male,18,Student at school,None,USA
 Not difficult at all,League of Legends,16,0,2,Female,20,Employed,High school diploma (or equivalent),USA,23,7,2
 Very difficult,League of Legends,25,1,2,Male,18,Student at school,None,USA,31,7,7
 Somewhat difficult,League of Legends,6,1,2,Male,20,Student at college / university,High school diploma (or equivalent),USA,17,30,10
-Somewhat difficult,League of Legends,12,1,2,Male,31,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,17,17,5
+"Somewhat difficult,League of Legends,12,1,2,Male,31,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,17,17,5"
 NA,League of Legends,4,1,1,Male,21,Employed,High school diploma (or equivalent),PRT,16,3,0
 Somewhat difficult,League of Legends,30,1,1,Male,20,Student at college / university,High school diploma (or equivalent),GBR,15,46,11
 Somewhat difficult,League of Legends,25,1,1,Male,24,Employed,Bachelor (or equivalent),CAN,14,14,2
@@ -10691,7 +10691,7 @@ Not difficult at all,League of Legends,12,1,2,Male,18,Student at college / unive
 Very difficult,League of Legends,14,1,2,Male,21,Student at college / university,High school diploma (or equivalent),MYS,5,29,13
 Somewhat difficult,League of Legends,14,1,2,Male,20,Student at college / university,High school diploma (or equivalent),USA,18,NA,19
 Not difficult at all,League of Legends,30,1,1,Male,19,Unemployed / between jobs,High school diploma (or equivalent),USA,10,NA,7
-NA,League of Legends,30,1,2,Male,25,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",NA,35,0,0
+"NA,League of Legends,30,1,2,Male,25,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",NA,35,0,0"
 Very difficult,League of Legends,15,1,2,Male,18,Unemployed / between jobs,None,AUS,7,37,11
 Somewhat difficult,League of Legends,12,1,1,Male,20,Employed,High school diploma (or equivalent),USA,8,58,13
 Not difficult at all,League of Legends,8,1,2,Female,18,Student at college / university,High school diploma (or equivalent),USA,19,37,6
@@ -10823,7 +10823,7 @@ Somewhat difficult,League of Legends,15,1,1,Male,18,Student at school,High schoo
 Not difficult at all,League of Legends,20,1,1,Male,18,Employed,High school diploma (or equivalent),USA,18,7,8
 Not difficult at all,League of Legends,75,1,2,Male,19,Student at college / university,High school diploma (or equivalent),USA,27,27,0
 Very difficult,League of Legends,8,1,3,Male,18,Student at college / university,High school diploma (or equivalent),MYS,18,12,1
-Not difficult at all,League of Legends,40,1,1,Female,24,Employed,"Ph.D., Psy. D., MD (or equivalent)",USA,17,13,6
+"Not difficult at all,League of Legends,40,1,1,Female,24,Employed,""Ph.D., Psy. D., MD (or equivalent)"",USA,17,13,6"
 NA,League of Legends,30,1,1,Male,20,Employed,High school diploma (or equivalent),AUS,27,14,0
 Somewhat difficult,League of Legends,18,1,1,Male,18,Student at college / university,High school diploma (or equivalent),ESP,13,25,10
 Somewhat difficult,League of Legends,20,1,3,Male,19,Student at college / university,High school diploma (or equivalent),DOM,25,27,7
@@ -11058,7 +11058,7 @@ Somewhat difficult,League of Legends,18,1,2,Male,27,Student at college / univers
 Very difficult,League of Legends,50,1,3,Male,18,Student at school,None,FRA,10,1,4
 Somewhat difficult,League of Legends,20,1,2,Male,19,Student at college / university,High school diploma (or equivalent),AUS,24,7,3
 Somewhat difficult,League of Legends,35,1,4,Male,19,Student at college / university,Bachelor (or equivalent),BRA,22,20,5
-Not difficult at all,League of Legends,25,1,2,Male,30,Employed,"Ph.D., Psy. D., MD (or equivalent)",ESP,17,3,3
+"Not difficult at all,League of Legends,25,1,2,Male,30,Employed,""Ph.D., Psy. D., MD (or equivalent)"",ESP,17,3,3"
 Somewhat difficult,League of Legends,35,1,2,Male,25,Unemployed / between jobs,None,GBR,13,59,6
 Extremely difficult,League of Legends,20,1,1,Female,26,Student at college / university,Bachelor (or equivalent),USA,18,13,11
 Somewhat difficult,League of Legends,24,1,2,Male,18,Student at school,None,PRT,28,37,7
@@ -11082,7 +11082,7 @@ Somewhat difficult,League of Legends,7,1,1,Male,25,Employed,Bachelor (or equiva
 Not difficult at all,League of Legends,14,1,2,Male,20,Student at college / university,Bachelor (or equivalent),NLD,27,19,4
 Somewhat difficult,League of Legends,12,1,1,Male,20,Student at college / university,High school diploma (or equivalent),DEU,20,27,2
 Not difficult at all,League of Legends,25,1,3,Male,18,Student at school,High school diploma (or equivalent),SWE,24,11,0
-Not difficult at all,League of Legends,6,1,2,Male,20,Student at college / university,"Ph.D., Psy. D., MD (or equivalent)",SWE,23,2,6
+"Not difficult at all,League of Legends,6,1,2,Male,20,Student at college / university,""Ph.D., Psy. D., MD (or equivalent)"",SWE,23,2,6"
 Not difficult at all,League of Legends,15,1,1,Male,20,Student at college / university,Bachelor (or equivalent),ESP,31,5,0
 Not difficult at all,League of Legends,40,1,2,Male,25,Employed,High school diploma (or equivalent),CAN,14,5,0
 Not difficult at all,League of Legends,20,1,3,Female,22,Employed,High school diploma (or equivalent),USA,32,32,3
@@ -11247,7 +11247,7 @@ Not difficult at all,League of Legends,30,1,1,Male,23,Student at college / unive
 Not difficult at all,League of Legends,15,1,3,Male,25,Employed,Bachelor (or equivalent),BEL,22,18,2
 Somewhat difficult,League of Legends,20,1,1,Male,18,Student at college / university,High school diploma (or equivalent),PHL,27,20,6
 Somewhat difficult,League of Legends,18,1,2,Male,25,Employed,High school diploma (or equivalent),GRC,19,7,3
-Very difficult,League of Legends,25,0,1,Male,25,Employed,"Ph.D., Psy. D., MD (or equivalent)",POL,12,30,3
+"Very difficult,League of Legends,25,0,1,Male,25,Employed,""Ph.D., Psy. D., MD (or equivalent)"",POL,12,30,3"
 Somewhat difficult,League of Legends,12,1,2,Male,22,Employed,Bachelor (or equivalent),MEX,10,32,13
 Not difficult at all,League of Legends,20,1,2,Male,22,Student at college / university,High school diploma (or equivalent),BRA,19,8,5
 Not difficult at all,League of Legends,21,0,1,Female,19,Student at college / university,High school diploma (or equivalent),AUS,25,35,3
